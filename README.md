@@ -3,7 +3,7 @@
 
 ## Getting started
 
-`$ npm install git+https://github.com/pj0579/react-native-alipay.git`
+`$ npm install git+https://github.com/pj0579/react-native-upload-image.git`
 
 ### Manual installation
 
