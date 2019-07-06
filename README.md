@@ -1,13 +1,9 @@
 
-# react-native-react-native-upload-image
+# react-native-upload-image
 
 ## Getting started
 
-`$ npm install react-native-react-native-upload-image --save`
-
-### Mostly automatic installation
-
-`$ react-native link react-native-react-native-upload-image`
+`$ npm install git+https://github.com/pj0579/react-native-alipay.git`
 
 ### Manual installation
 
@@ -33,16 +29,6 @@
   	```
       compile project(':react-native-react-native-upload-image')
   	```
-
-#### Windows
-[Read it! :D](https://github.com/ReactWindows/react-native)
-
-1. In Visual Studio add the `RNReactNativeUploadImage.sln` in `node_modules/react-native-react-native-upload-image/windows/RNReactNativeUploadImage.sln` folder to their solution, reference from their app.
-2. Open up your `MainPage.cs` app
-  - Add `using React.Native.Upload.Image.RNReactNativeUploadImage;` to the usings at the top of the file
-  - Add `new RNReactNativeUploadImagePackage()` to the `List<IReactPackage>` returned by the `Packages` method
-
-
 ## Usage
 ```javascript
 import RNReactNativeUploadImage from 'react-native-react-native-upload-image';
